@@ -1,0 +1,25 @@
+body{
+	margin: 0px;
+	padding:0px;
+	position: relative;
+}
+
+.uno{
+	width:200px;
+	height:200px;
+	background-color:#ee3e64;
+}
+
+.dos{
+	width:200px;
+	height:200px;
+	background-color: #44accf;
+	left:200px;
+	position: relative;
+}
+
+.tres{
+	width:200px;
+	height:200px;
+	background-color: #b7d84b;
+}
